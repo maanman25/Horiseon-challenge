@@ -5,8 +5,9 @@ The Horiseon Challenge was created in order to optimize the Horiseon Website's a
 
 Preview (Screenshots)
 
-![Alt text](1.jpg)
+![4](https://github.com/maanman25/Horiseon-challenge/assets/69931950/625fc7cb-b411-4783-b29d-1ef6215bcdf1)
 
-![Alt text](2.jpg)
+![5](https://github.com/maanman25/Horiseon-challenge/assets/69931950/008c72d7-b66e-4524-beac-678eae8dcabe)
 
-![Alt text](3.jpg)
+
+![6](https://github.com/maanman25/Horiseon-challenge/assets/69931950/b99c4c4b-dbbd-40fe-8c9b-418bbaf93e68)
