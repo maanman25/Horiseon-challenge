@@ -1,7 +1,9 @@
- Horiseon Challenge
-
+Horiseon Challenge
 Description
 The Horiseon Challenge was created in order to optimize the Horiseon Website's accessibility, allowing the site to reach a broader audience with more efficiency.
+
+Installation
+N/A
 
 Preview (Screenshots)
 
